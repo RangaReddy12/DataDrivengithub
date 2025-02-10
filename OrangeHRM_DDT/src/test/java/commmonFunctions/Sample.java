@@ -3,19 +3,19 @@ package commmonFunctions;
 public class Sample {
 public void add()
 {
-	int a=876,b=9876,c;
+	int a=456,b=23,c;
 	c=a+b;
 	System.out.println(c);
 }
 public void division()
 {
-	int a=6656,b=7,c;
+	int a=234,b=89,c;
 	c=a+b;
 	System.out.println(c);
 }
 public void sub()
 {
-	int a=53464,b=7676,c;
+	int a=567,b=89,c;
 	c=a+b;
 	System.out.println(c);
 }
